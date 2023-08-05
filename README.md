@@ -1,4 +1,4 @@
-# affichage_donnees_api_cinema_react-js
+# Recherche de films / séries TV / acteurs utilisant l'api de themoviedb.org en REACT.JS
 Created with CodeSandbox
 
 Cette application permet de récupérer les données du cinéma sur themoviedb.
