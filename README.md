@@ -8,5 +8,5 @@ Au chargement, ce sont les films les plus récents qui sont présentés :
 Au renseignement du formulaire, on obtient les données sur les films ou séries TV ou personnages (comme ci-dessous avec l'exemple de Marion Cotillard) : 
 ![image](https://github.com/damien1976/affichage_donnees_api_cinema_react-js/assets/46868436/1b817027-89a4-4cb0-8602-de895d3f9bb9)
 
-Quelques améliorations peuvent être apportées en terme de responsive ou en découpant davantage le code en davantage de fichiers. 
+Quelques améliorations peuvent être apportées en terme de responsive ou en découpant davantage le code en davantage de fichiers (Ajout d'un genre à un film, par exemple).  
 
